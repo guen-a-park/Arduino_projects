@@ -1,6 +1,4 @@
-# Arduino_projects
+# Stop_Watch
 
-### [Stop watch](https://github.com/guen-a-park/Arduino_projects/tree/main/Stop_Watch)
-+
+## Circuit
 
-### [Dot_game]
