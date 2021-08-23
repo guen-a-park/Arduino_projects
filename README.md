@@ -1,9 +1,9 @@
 # Arduino-projects
-## [Stop_watch](https://github.com/guen-a-park/Arduino_projects/tree/main/Stop_Watch)
+## [Stop watch](https://github.com/guen-a-park/Arduino_projects/tree/main/Stop_Watch)
 +
 
-## [Dot_game](https://github.com/guen-a-park/Arduino_projects/tree/main/Dot_game)
+## [Dot game](https://github.com/guen-a-park/Arduino_projects/tree/main/Dot_game)
 +
 
-## [PPG]()
+## [PPG Sensor]()
 + Photoplethysmography(PPG) can detect blood volume changes
