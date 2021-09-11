@@ -8,7 +8,6 @@ void setup() {
   
 }
 
-//왜 안끝나냐...
 void loop() {
   // put your main code here, to run repeatedly:
   while(1){
